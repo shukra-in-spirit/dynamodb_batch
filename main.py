@@ -7,7 +7,7 @@ import inquirer
 import click
 import os
 import ast
-from commands.commands import commands
+from commands_internal.commands import commands
 
 
 def main():
